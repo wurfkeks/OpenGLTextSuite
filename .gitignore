@@ -1,0 +1,8 @@
+*.user
+ui_*.h
+moc_*
+*.ttf
+*.fnt
+Makefile*
+*.o
+OpenGLText
